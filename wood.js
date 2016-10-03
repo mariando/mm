@@ -118,7 +118,7 @@ $("#ploptions").append($("#shuffleplaylist"), $("#clearplaylist"), $("#getplayli
 $("#pldropdown").before($("#qlockbtn"));
 //channels
 
-$.getScript("//https://cdn.rawgit.com/mariando/mm/master/wood1.js");
+$.getScript("//rawgit.com/mariando/mm/master/wood1.js");
 $.getScript("//rawgit.com/sawwashere/CYTUBE-BABYMETAL/master/overlay.js");
 
 $('#queuecontainer').hover(function(){
