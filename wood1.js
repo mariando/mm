@@ -8,7 +8,7 @@ $("#rightpane").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
-'<a href="https://woodstockfestival.pl"><img src="//i.imgur.com/X5sR1ye.png" class="kek" /></a>' +
+'<a href="https://woodstockfestival.pl"><img src="//i.imgur.com/X5sR1ye.png?2" class="kek" /></a>' +
 '<a href="https://twitter.com/BABYMETAL_JAPAN"><img src="//i.imgur.com/hJiWzS7.png" class="kek" /></a>' +
 '<a href="https://www.youtube.com/user/BABYMETALofficial"><img src="//i.imgur.com/vldmy2d.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/SakuraGakuin"><img src="//i.imgur.com/BAtXGNU.jpg" class="kek" /></a>' +
